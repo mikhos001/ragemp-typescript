@@ -13,3 +13,4 @@ mp.events.add('playerReady', () => {
 
 	mp.players.local.customMethod();
 });
+

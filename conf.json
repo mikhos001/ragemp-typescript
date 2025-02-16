@@ -9,7 +9,7 @@
 	"port": 22005,
 	"encryption": false,
 	"url": "https://rage.mp",
-	"language": "en",
+	"language": "ru",
 	"allow-cef-debugging": true,
 	"enable-http-security": false,
 	"voice-chat": true,

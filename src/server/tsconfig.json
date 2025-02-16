@@ -3,6 +3,8 @@
 	"compilerOptions": {
 		"types": ["../../node_modules/@ragempcommunity/types-server", "./@types"],
 		"baseUrl": "./",
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
 		"paths": {
 			"@shared/*": ["../shared/*"],
 			"@/*": ["./*"]
